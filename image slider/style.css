@@ -94,6 +94,8 @@ body {
   .manuals {
     display: none;
   }
-  .slide{
-    width:100%;
+  .slider{
+    width:400px;
+   border-radius: 10px;
+  overflow: hidden;
 }

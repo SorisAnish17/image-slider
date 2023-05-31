@@ -94,4 +94,6 @@ body {
   .manuals {
     display: none;
   }
+  .slides{
+    width:100%;
 }

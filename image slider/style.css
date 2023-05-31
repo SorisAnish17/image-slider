@@ -96,6 +96,6 @@ body {
   }
   .slider{
     width:400px;
-   border-radius: 10px;
-  overflow: hidden;
+    border-radius: 10px;
+    overflow: hidden;
 }

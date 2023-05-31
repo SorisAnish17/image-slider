@@ -98,4 +98,9 @@ body {
     width:400px;
     border-radius: 10px;
     overflow: hidden;
+  }
+  .slider img{
+    width:400px;
+    height:500px;
+    }
 }

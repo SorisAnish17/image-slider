@@ -86,24 +86,4 @@ body {
 #radio3:checked ~ .auto .auto3 {
   background-color: rgb(223, 236, 99);
 }
-@media screen and (max-width: 700px) {
-  .slider {
-    width: 50vh;
-    margin-left: 15px;
-    overflow-y: hidden;
-  }
-  .manual {
-    position: absolute;
-    width: 800px;
-    margin-top: -40px;
-    display: flex;
-    margin-right: 50px;
-  }
-  .auto {
-    position: absolute;
-    width: 800px;
-    margin-top: 460px;
-    display: flex;
-    margin-right: 50px;
-  }
-}
+
